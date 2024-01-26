@@ -1,5 +1,8 @@
-h2,h3{
+h3{
     color: #333C4A;
+}
+
+h2{
     text-align: center;
 }
 
@@ -35,4 +38,14 @@ body{
 
 .list-group{
     background-color: transparent;
+}
+
+.button{
+    text-align: center;
+    color: #333C4A;
+}
+
+.card{
+    background-color: #495664;
+    color: #F6F7D3;
 }
